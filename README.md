@@ -282,3 +282,4 @@ You have successfully deployed and tested the Orders Microservice and a MariaDB 
 
 To see the Orders application working in a more complex microservices use case, checkout our Microservice Reference Architecture Application [here](https://github.com/ibm-garage-ref-storefront/refarch-cloudnative-storefront).
 
+
