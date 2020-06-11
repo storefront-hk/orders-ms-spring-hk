@@ -13,6 +13,10 @@
   <artifactId>orders-application</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
+	
+  <properties>
+    <maven.test.skip>true</maven.test.skip>
+  </properties> 
 
   <!-- versions will come from the parent pom (and included bom):
     mvn dependency:tree
